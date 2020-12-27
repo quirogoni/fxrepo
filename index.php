@@ -1,3 +1,5 @@
 <html>
-<h1>HOLA GATOS PHP </h1>
+<h1>HOLA GATOS html </h1>
+
+<?php echo "formato php" ?>
 </html>
